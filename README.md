@@ -1,17 +1,6 @@
 
-# Getting App weather using react
+#  Weather App using react
 
-
-![](./public/weather%20application%20react.js%20abdelilah%20elaziri.png)
-
-
-
-[Look application weather](https://abdelilah-elaziri.github.io/app-weather-react/)
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
